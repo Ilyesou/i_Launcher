@@ -6,4 +6,4 @@ https://discord.gg/bPdvDs9
 For the installation join us on the discord you will find a tutorial video there 
 https://discord.gg/bPdvDs9
 
-(https://gyazo.com/6146bccb8f9c6cd3ea3c80ffcaa52e97)
+!(image)(https://gyazo.com/6146bccb8f9c6cd3ea3c80ffcaa52e97)
